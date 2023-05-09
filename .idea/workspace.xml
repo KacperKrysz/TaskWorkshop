@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceac24b2-1d6a-4156-a41b-827015700473" name="Changes" comment="Menu" />
+    <list default="true" id="ceac24b2-1d6a-4156-a41b-827015700473" name="Changes" comment="TaskManager">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +84,7 @@
       <workItem from="1682246801284" duration="14165000" />
       <workItem from="1682360143284" duration="8000" />
       <workItem from="1682755687599" duration="10000" />
-      <workItem from="1683290724873" duration="336000" />
+      <workItem from="1683290724873" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1682245490194</created>
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682246643765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TaskManager">
+      <created>1683291180328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683291180328</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="Menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu" />
+    <MESSAGE value="TaskManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="TaskManager" />
   </component>
 </project>
